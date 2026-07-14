@@ -71,6 +71,15 @@
         "degraded": "Degradado",
         "no_data": "Sem dados de armazenamento disponíveis"
     },
+    "duplicati": {
+        "jobs": "Trabalhos",
+        "stored": "Armazenado",
+        "lastBackup": "Última corrida",
+        "nextRun": "Próxima corrida",
+        "running": "Correndo",
+        "warnings": "Avisos",
+        "errors": "Erros"
+    },
     "docker": {
         "rx": "RX",
         "tx": "TX",
@@ -465,6 +474,11 @@
         "cpu": "CPU",
         "lxc": "LXC",
         "vms": "VMs"
+    },
+    "pulse": {
+        "nodes": "Nodes",
+        "vms": "VMs",
+        "lxcs": "LXCs"
     },
     "glances": {
         "cpu": "CPU",
@@ -944,7 +958,7 @@
         "tags": "Marcadores",
         "none": "Nenhum",
         "min": "Mín",
-        "low": "Low",
+        "low": "Baixo",
         "default": "Padrão",
         "high": "Alto",
         "urgent": "Urgente"
@@ -1210,5 +1224,11 @@
         "burned": "Queimado",
         "remaining": "Restante",
         "steps": "Passos"
+    },
+    "syncthing": {
+        "connected": "Conectado",
+        "synced": "Sincronizado",
+        "errors": "Erros",
+        "storage": "Armazenagem"
     }
 }

@@ -71,6 +71,15 @@
         "degraded": "Zdegradowany",
         "no_data": "Brak danych o miejscu przechowywania"
     },
+    "duplicati": {
+        "jobs": "Jobs",
+        "stored": "Stored",
+        "lastBackup": "Last Run",
+        "nextRun": "Next Run",
+        "running": "Running",
+        "warnings": "Warnings",
+        "errors": "Errors"
+    },
     "docker": {
         "rx": "Rx",
         "tx": "Tx",
@@ -465,6 +474,11 @@
         "cpu": "Procesor",
         "lxc": "Kontenery LXC",
         "vms": "Maszyn wirtualnych"
+    },
+    "pulse": {
+        "nodes": "Węzły",
+        "vms": "Maszyny",
+        "lxcs": "Kontenery LXC"
     },
     "glances": {
         "cpu": "Procesor",
@@ -1210,5 +1224,11 @@
         "burned": "Spalone",
         "remaining": "Pozostało",
         "steps": "Kroki"
+    },
+    "syncthing": {
+        "connected": "Connected",
+        "synced": "Synced",
+        "errors": "Errors",
+        "storage": "Storage"
     }
 }

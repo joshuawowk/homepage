@@ -71,6 +71,15 @@
         "degraded": "Degraded",
         "no_data": "No storage data available"
     },
+    "duplicati": {
+        "jobs": "Úlohy",
+        "stored": "Uložené",
+        "lastBackup": "Naposledy spustené",
+        "nextRun": "Nasledujúce spustenie",
+        "running": "Spustené",
+        "warnings": "Upozornenia",
+        "errors": "Chyby"
+    },
     "docker": {
         "rx": "Prijaté",
         "tx": "Odoslané",
@@ -465,6 +474,11 @@
         "cpu": "CPU",
         "lxc": "LXC",
         "vms": "Virtuálne stroje"
+    },
+    "pulse": {
+        "nodes": "Uzly",
+        "vms": "Virtuálne stroje",
+        "lxcs": "LXC"
     },
     "glances": {
         "cpu": "CPU",
@@ -1210,5 +1224,11 @@
         "burned": "Burned",
         "remaining": "Remaining",
         "steps": "Steps"
+    },
+    "syncthing": {
+        "connected": "Pripojené",
+        "synced": "Synchronizované",
+        "errors": "Chyby",
+        "storage": "Úložisko"
     }
 }

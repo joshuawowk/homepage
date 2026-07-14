@@ -71,6 +71,15 @@
         "degraded": "Деградирано",
         "no_data": "Нема доступних података о складиштењу"
     },
+    "duplicati": {
+        "jobs": "Jobs",
+        "stored": "Stored",
+        "lastBackup": "Last Run",
+        "nextRun": "Next Run",
+        "running": "Running",
+        "warnings": "Warnings",
+        "errors": "Errors"
+    },
     "docker": {
         "rx": "RX",
         "tx": "TX",
@@ -465,6 +474,11 @@
         "cpu": "Процесор",
         "lxc": "LXC",
         "vms": "VMs"
+    },
+    "pulse": {
+        "nodes": "Nodes",
+        "vms": "VMs",
+        "lxcs": "LXCs"
     },
     "glances": {
         "cpu": "Процесор",
@@ -1210,5 +1224,11 @@
         "burned": "Спаљено",
         "remaining": "Преостало",
         "steps": "Кораци"
+    },
+    "syncthing": {
+        "connected": "Connected",
+        "synced": "Synced",
+        "errors": "Errors",
+        "storage": "Storage"
     }
 }

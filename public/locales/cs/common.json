@@ -71,6 +71,15 @@
         "degraded": "Degradováno",
         "no_data": "Nejsou k dispozici žádná data úložiště"
     },
+    "duplicati": {
+        "jobs": "Jobs",
+        "stored": "Stored",
+        "lastBackup": "Last Run",
+        "nextRun": "Next Run",
+        "running": "Running",
+        "warnings": "Warnings",
+        "errors": "Errors"
+    },
     "docker": {
         "rx": "RX",
         "tx": "TX",
@@ -465,6 +474,11 @@
         "cpu": "Využití procesoru",
         "lxc": "LXC",
         "vms": "Virtuální Stroje"
+    },
+    "pulse": {
+        "nodes": "Uzly (Nody)",
+        "vms": "Virtuální Stroje",
+        "lxcs": "LXC"
     },
     "glances": {
         "cpu": "Využití procesoru",
@@ -1210,5 +1224,11 @@
         "burned": "Spáleno",
         "remaining": "Zbývá",
         "steps": "Kroky"
+    },
+    "syncthing": {
+        "connected": "Connected",
+        "synced": "Synced",
+        "errors": "Errors",
+        "storage": "Storage"
     }
 }

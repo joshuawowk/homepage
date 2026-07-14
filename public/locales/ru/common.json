@@ -71,6 +71,15 @@
         "degraded": "Деградация",
         "no_data": "Нет доступных данных о хранилище"
     },
+    "duplicati": {
+        "jobs": "Jobs",
+        "stored": "Stored",
+        "lastBackup": "Last Run",
+        "nextRun": "Next Run",
+        "running": "Running",
+        "warnings": "Warnings",
+        "errors": "Errors"
+    },
     "docker": {
         "rx": "RX",
         "tx": "TX",
@@ -432,7 +441,7 @@
         "numActiveSessions": "Сессии",
         "numConnections": "Соединения",
         "dataRelayed": "Ретранслировано",
-        "transferRate": "Rate"
+        "transferRate": "Цена"
     },
     "mastodon": {
         "user_count": "Пользователи",
@@ -465,6 +474,11 @@
         "cpu": "ЦП",
         "lxc": "LXC",
         "vms": "Виртуальные машины"
+    },
+    "pulse": {
+        "nodes": "Nodes",
+        "vms": "VMs",
+        "lxcs": "LXCs"
     },
     "glances": {
         "cpu": "ЦП",
@@ -1210,5 +1224,11 @@
         "burned": "Burned",
         "remaining": "Remaining",
         "steps": "Steps"
+    },
+    "syncthing": {
+        "connected": "Connected",
+        "synced": "Synced",
+        "errors": "Errors",
+        "storage": "Storage"
     }
 }
